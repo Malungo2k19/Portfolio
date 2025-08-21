@@ -6,7 +6,7 @@ Mid-Level Data Analyst | BI & Data Visualization (QuickSight, Power BI, Tableau,
 
 ## 
 - 🔭 Currently working on: **BI & Data Analytics projects** (Power BI, Tableau, QuickSight, SQL, AWS)  
-- 🌱 Currently learning: **Advanced Analytics with HTML**  
+- 🌱 Currently learning: **Advanced Analytics with HTML and CSS**  
 - 👯 Open to collaborate on: **Open-source BI dashboards & data visualization projects**  
 - 🤔 Looking for help with: **best practices in data architecture and automation**  
 - 💬 Ask me about: **Data Visualization, SQL, ETL, and BI tools**  
