@@ -1,4 +1,4 @@
-# MALUNGO SEBASTIAO
+# MALUNGO A. SEBASTIAO
 🌍 Hello and welcome!
 I believe data has the power to change the way we see the world. Here you’ll find my projects on Business Intelligence, SQL, and cloud analytics, developed with the goal of driving smarter decisions and innovation.
 
