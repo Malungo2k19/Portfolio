@@ -15,7 +15,8 @@ Mid-Level Data Analyst | BI & Data Visualization (QuickSight, Power BI, Tableau,
 
 **MY PROJECTS:** https://bit.ly/3n0dEY6
 
-<img width="1542" height="515" alt="image" src="https://github.com/user-attachments/assets/6a6f69dd-4263-4817-b4ac-37cb56b6eb85" />
+<img width="1414" height="484" alt="image" src="https://github.com/user-attachments/assets/0257c55b-0e1c-410b-8617-9ba2812c6fe1" />
+
 
 ##
 
