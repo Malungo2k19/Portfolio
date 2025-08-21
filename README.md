@@ -1,8 +1,9 @@
 # MALUNGO A. SEBASTIAO
-🌍 Hello and welcome!
+🌍 Hello and welcome to my GitHub!
 I believe data has the power to change the way we see the world. Here you’ll find my projects on Business Intelligence, SQL, and cloud analytics, developed with the goal of driving smarter decisions and innovation.
 
-Mid-Level Data Analyst | BI & Data Visualization (QuickSight, Power BI, Tableau, Qliksense and QlikView) | BMW USA Partner
+Mid-Level Data Analyst | BI & Data Visualization (QuickSight, Power BI, Tableau, Qliksense and QlikView) | BMW USA Partner.
+
 ## 
 - 🔭 Currently working on: **BI & Data Analytics projects** (Power BI, Tableau, QuickSight, SQL, AWS)  
 - 🌱 Currently learning: **Advanced Analytics with HTML**  
@@ -13,6 +14,11 @@ Mid-Level Data Analyst | BI & Data Visualization (QuickSight, Power BI, Tableau,
 - ⚡ Fun fact: I believe every dataset hides a story - you just need the right dashboard to tell it 🚀 
 ##
 
+## 🌍 Languages
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-green?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Advanced%20C1-blue?style=for-the-badge)
+
+##
 **MY PROJECTS:** https://bit.ly/3n0dEY6
 
 <img width="1414" height="484" alt="image" src="https://github.com/user-attachments/assets/0257c55b-0e1c-410b-8617-9ba2812c6fe1" />
@@ -53,11 +59,6 @@ Mid-Level Data Analyst | BI & Data Visualization (QuickSight, Power BI, Tableau,
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
-
 
 
 
